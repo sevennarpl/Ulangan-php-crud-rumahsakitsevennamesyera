@@ -1,0 +1,39 @@
+RumahSakitsevennamesyera/
+├── index.php
+├── views/
+│   ├── Auth/
+│   │   └── login.php
+│   ├── User/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   ├── Pasien/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   ├── Dokter/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   ├── Obat/
+│   │   ├── index.php
+│   │   ├── create.php
+│   │   ├── edit.php
+│   │   └── show.php
+│   └── Kunjungan/
+│       ├── index.php
+│       ├── create.php
+│       ├── edit.php
+│       └── show.php
+└── proses/
+    ├── koneksi.php
+    ├── proseslogin.php
+    ├── logout.php
+    ├── prosesuser.php
+    ├── prosespasien.php
+    ├── prosesdokter.php
+    ├── prosesobat.php
+    └── proseskunjungan.php
